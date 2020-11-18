@@ -17,6 +17,7 @@ h3 {
   border: 5px solid #560000;
   border-radius: 30px;
   padding: 2px 10px 2px 30px;
+  margin: 25px;
   max-width: 40%;
 }
 .front {
@@ -27,10 +28,13 @@ h3 {
   max-width: 30%;
   align-self: right;
 }
-.program-Image {}
 
-.Solar-Movies-Image {}
-.I23Movies-Image {}
+.Solar-Movies-Image {
+  max-width: 69px;
+}
+.I23Movies-Image {
+  max-width: 69px;
+}
 
 .Tor-Image {
   max-width: 69px;
